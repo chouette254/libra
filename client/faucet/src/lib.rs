@@ -31,3 +31,4 @@
 //!
 
 pub mod mint;
+pub mod cargo;
